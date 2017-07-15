@@ -1,12 +1,16 @@
 # Magento-Product-Designer-Tool
 
-Brush Your Ideas’ Web-to-print extension is a HTML5 based fully responsive product design software solution (available for both Magento and Magento 2) full of powerful features to transform any Magento store into a creative studio where products can be designed and sent instantly for printing. Brush Your Ideas works with a range of products. 
+<a href="https://www.brushyourideas.com">Brush Your Ideas</a> Web-to-print extension is a HTML5 based fully responsive product design software solution (available for both Magento and Magento 2) full of powerful features to transform any Magento store into a creative studio where products can be designed and sent instantly for printing. Brush Your Ideas works with a range of products. 
 
 <img src="https://marketplace.magento.com/media/catalog/product/cache/image/750x360/e9c3970ab036de70892d86c6d221abfe/b/r/brush_your_ideas_store-logo-250x250_m1.png">
+<img src="https://marketplace.magento.com/media/catalog/product/cache/image/750x360/e9c3970ab036de70892d86c6d221abfe/b/r/brush_your_ideas_store-m2-250x250.png">
+
 
 You can use it to customize t-shirts, shirts, trousers, shorts, cards, stationery, mugs, coasters, laptop and mobile skins, signs, posters, banners, etc. Brush Your Ideas will be a great addition to your online store if you sell any of these products or any product that has a printable blank surface on it and you take customization requests from your customers. It will also be a great investment for you if you have an offline printing business and you want to expand your market reach by selling custom printed products online as well.
 
 Brush Your Ideas combines the power of Magento with a state-of-the-art product online product design tool to offer you a complete web-to-print solution. This tool allows one to add text, images & clip arts and edit them using various decorative effects. You can use clip arts from the built-it library of 10,000 plus items or add your own. It also provides multiple design areas and sides depending on the nature of the product. It also provides multiple file output methods depending on the nature of printing. 
+
+Purchase it from New <a href="https://marketplace.magento.com/biztech-magento1-productdesigner.html"><h2>Magento Marketplace - Magento Product Designer</h2></a>
 
 <h3>Primary Design Features</h3>
 
